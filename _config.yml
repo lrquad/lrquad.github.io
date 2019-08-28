@@ -8,7 +8,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Ran Luo # add your name
-author-img: david-freeman.jpg # add your photo
+author-img: myphoto.jpg # add your photo
 about-author: He is currently pursuing the Ph.D. degree in Computer Engineering at the University of New Mexico(UNM), Albuquerque, New Mexico. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
@@ -17,7 +17,7 @@ social-linkedin: # add your Linkedin handle
 social-email: # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: ran_luo # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
