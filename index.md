@@ -5,3 +5,4 @@
 layout: home
 ---
 
+![scene]({{site.url}}/images/screen_recored2.gif)
