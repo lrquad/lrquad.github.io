@@ -1,0 +1,16 @@
+---
+layout: post
+title: Interactive Design and Simulation of Tubular Supporting Structure
+date: 2015-01-01 00:00:00 +0300
+description: Ran Luo, Lifeng Zhu, Weiwei Xu, Patrick  Kelley, Vanessa Svihla, Yin Yang, "Interactive Design and Simulation of Tubular Supporting Structure", in Graphical Models, Vol 80, pp16-30, 2015. # Add post description (optional)
+img: projects/papers/paper2015.png # Add image post (optional)
+tags: [Productivity, Software] # add tag
+---
+
+## Authors
+
+Ran Luo, Lifeng Zhu, Weiwei Xu, Patrick  Kelley, Vanessa Svihla, Yin Yang
+
+## Abstract
+
+This paper presents a system for design and simulation of supporting tube structure. We model each freeform tube component as a swept surface, and employ boundary control and skeletal control to manipulate its cross-sections and its embedding respectively. With the parametrization of the swept surface, a quadrilateral mesh consisting of nine-node general shell elements is automatically generated and the stress distribution of the structure is simulated using the finite element method. In order to accelerate the complex finite element simulation, we adopt a two-level subspace simulation strategy, which constructs a secondary complementary subspace to improve the subspace simulation accuracy. Together with the domain decomposition method, our system is able to provide interactive feedback for parametric freeform tube editing. Experiments show that our system is able to predict the structural character of the tube structure efficiently and accurately.

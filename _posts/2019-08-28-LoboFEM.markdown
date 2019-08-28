@@ -6,3 +6,6 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: projects/screen_recored2.gif # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
+
+Neohookean material.
+Newton method solver.
