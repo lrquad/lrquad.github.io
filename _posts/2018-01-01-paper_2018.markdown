@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Physics-based Quadratic Deformation Using Elastic Weighting
-date: 2017-01-01 00:00:00 +0300
+date: 2018-01-02 00:00:00 +0300
 description: Ran Luo, Weiwei Xu, Huamin Wang,Kun Zhou and Yin Yang, "Physics-based Quadratic Deformation Using Elastic Weighting", to appear in IEEE Transactions on Visualization and Computer Graphics, 2018. # Add post description (optional)
 img: projects/papers/quadratic_tvcg17.jpg # Add image post (optional)
 tags: [Papers] # add tag
