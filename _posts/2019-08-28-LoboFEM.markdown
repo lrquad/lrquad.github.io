@@ -1,11 +1,34 @@
 ---
 layout: post
-title: Multi objects collision
+title: New LoboFEM Solver
 date: 2018-08-28 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: projects/screen_recored2.gif # Add image post (optional)
-tags: [Productivity, Software] # add tag
+tags: [Framework] # add tag
 ---
 
-Neohookean material.
-Newton method solver.
+![Test]({{site.url}}/Images/scene.png)
+
+Thanks to [Learnopengl](https://learnopengl.com/) and [imgui](https://github.com/ocornut/imgui), I have rewritten my viewer code. Also, I reformat my solver structure to support more complex model.
+
+Here are more examples.
+
+- Interatic with mouse:
+
+![Test]({{site.url}}/Images/screen_recored3.gif)
+
+- Simulation with constraints:
+
+![Test]({{site.url}}/Images/screen_recored4.gif)
+
+- Simulation with collision (friction force zero)
+
+![Test]({{site.url}}/Images/screen_recored5.gif)
+
+- Simulation with collision (friction force 0.1)
+
+![Test]({{site.url}}/Images/screen_recored6.gif)
+
+- Simulation with collision (friction force 1.0) 
+
+![Test]({{site.url}}/Images/screen_recored7.gif)

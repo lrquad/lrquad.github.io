@@ -1,0 +1,16 @@
+---
+layout: post
+title: Accelerated Complex Step Finite Difference for Expedient Deformable Simulation
+date: 2019-6-01 00:00:00 +0300
+description: Ran Luo, Weiwei Xu, Tianjia Shao, Hongyi Xu, Yin Yang, "Accelerated Complex Step Finite Difference for Expedient Deformable Simulation", ACM Transactions on Graphics, (SIGGRAPH Asia 2019). # Add post description (optional)
+img: projects/papers/siggraphasia19.gif # Add image post (optional)
+tags: [Papers] # add tag
+---
+
+## Authors
+
+Ran Luo, Weiwei Xu, Tianjia Shao, Hongyi Xu, Yin Yang
+
+## Abstract
+
+TBC

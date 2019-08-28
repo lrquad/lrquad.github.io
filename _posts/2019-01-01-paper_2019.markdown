@@ -4,7 +4,7 @@ title: NNWarp Neural Network-based Nonlinear Deformation
 date: 2017-01-01 00:00:00 +0300
 description: Ran Luo, Tianjia Shao, Huamin Wang, Weiwei Xu, Kun Zhou and Yin Yang, "NNWarp Neural Network-based Nonlinear Deformation", to appear in IEEE Transactions on Visualization and Computer Graphics, 2019. # Add post description (optional)
 img: projects/papers/deepwarp2018.jpg # Add image post (optional)
-tags: [Productivity, Software] # add tag
+tags: [Papers] # add tag
 ---
 
 ## Authors
