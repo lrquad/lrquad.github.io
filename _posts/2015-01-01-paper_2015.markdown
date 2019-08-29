@@ -3,7 +3,8 @@ layout: post
 title: Interactive Design and Simulation of Tubular Supporting Structure
 date: 2015-01-02 00:00:00 -0600
 description: Ran Luo, Lifeng Zhu, Weiwei Xu, Patrick  Kelley, Vanessa Svihla, Yin Yang, "Interactive Design and Simulation of Tubular Supporting Structure", in Graphical Models, Vol 80, pp16-30, 2015. # Add post description (optional)
-img: projects/papers/paper2015.png # Add image post (optional)
+postimg: projects/papers/paper2015.png # Add image post (optional)
+img: projects/papers/gm.gif
 tags: [Papers] # add tag
 ---
 
