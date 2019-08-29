@@ -9,12 +9,12 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Ran Luo # add your name
 author-img: myphoto.png # add your photo
-about-author: I am currently pursuing the Ph.D. degree in Computer Engineering at the University of New Mexico(UNM), Albuquerque, New Mexico. I will graduate at spring 2020. You can find my resume below &#58; # add description
+about-author: I am currently pursuing the Ph.D. degree in Computer Engineering at the University of New Mexico(UNM), Albuquerque, New Mexico. I will graduate in spring 2020. You can find my resume below &#58; # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: lrquad # add your Github handle
 social-linkedin: luoranrl # add your Linkedin handle
-social-email: # add your Email address
+social-email: luoran@unm.edu # add your Email address
 
 # Disqus
 discus-identifier: # add your discus identifier
