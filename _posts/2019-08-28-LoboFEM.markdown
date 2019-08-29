@@ -9,11 +9,11 @@ tags: [Framework] # add tag
 
 ![Test]({{site.url}}/Images/scene.png)
 
-Thanks to [Learnopengl](https://learnopengl.com/) and [imgui](https://github.com/ocornut/imgui), I have rewritten my viewer code. Also, I reformat my solver structure to support more complex model.
+Thanks to [Learnopengl](https://learnopengl.com/) and [imgui](https://github.com/ocornut/imgui), I have rewritten my viewer code. Also, I reformated my solver structure to support more complex models.
 
 Here are more examples.
 
-- Interatic with mouse:
+- Interactive with mouse:
 
 ![Test]({{site.url}}/Images/screen_recored3.gif)
 
