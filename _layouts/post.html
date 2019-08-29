@@ -3,6 +3,16 @@ layout: main
 ---
 <article class="article-page">
   <div class="page-content">
+    {% if page.postimg %}
+    <div class="page-cover-image">
+        <figure>
+          <img class="page-image" src={{ "/assets/img/" | prepend: site.baseurl | append : page.postimg}} alt="{{page.title}}">
+          {% if page.fig-caption %}
+            <figcaption>{{page.fig-caption}}</figcaption>
+          {% endif %}
+        </figure>
+      </div> <!-- End Page Cover Image -->
+    {% else %}
     {% if page.img %}
     <div class="page-cover-image">
       <figure>
@@ -13,6 +23,7 @@ layout: main
       </figure>
     </div> <!-- End Page Cover Image -->
     {% else %}
+    {% endif %}
     {% endif %}
     <div class="wrap-content">
       <header class="header-page">
