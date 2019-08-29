@@ -3,7 +3,8 @@ layout: post
 title: Acoustic VR of Human Tongue Real-time Speech-driven Visual Tongue System
 date: 2017-01-02 00:00:00 -0600
 description: Ran Luo, Qiang Fang, Jianguo Wei, Weiwei Xu and Yin Yang, "Acoustic VR of Human Tongue Real-time Speech-driven Visual Tongue System", in Proceeding of IEEE VR, 2017. # Add post description (optional)
-img: projects/papers/vr_tongue_17.jpg # Add image post (optional)
+img: projects/papers/tongue.gif # Add image post (optional)
+postimg: projects/papers/vr_tongue_17.jpg
 tags: [Papers] # add tag
 ---
 
