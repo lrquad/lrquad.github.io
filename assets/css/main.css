@@ -884,7 +884,7 @@ table tfoot td {
 }
 
 .wrapper {
-  max-width: 1250px;
+  max-width: 1600px;
   position: relative;
 }
 
@@ -1139,7 +1139,7 @@ footer .copyright {
 .post .post-thumbnail {
   width: 40%;
   max-width: 100%;
-  min-height: 11rem;
+  min-height: 15rem;
   -webkit-background-size: cover;
           background-size: cover;
   background-position: 50% 50%;
@@ -1147,7 +1147,7 @@ footer .copyright {
 
 .post .post-content {
   padding: 1rem;
-  width: 70%;
+  width: 100%;
 }
 
 .post .post-content .post-date,
@@ -1222,6 +1222,7 @@ a.newer-posts:hover {
   padding: 0;
   margin: 0;
   max-height: 500px;
+  max-width: 100%;
   background-color: #fafafa;
   overflow: hidden;
 }
